@@ -1,16 +1,22 @@
-## Hi there 👋
+## Salut, Moi c'est Naoual 👋
 
-<!--
-**naoual2006/naoual2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en première année informatique à Fès.  
+💻 Passionnée par le web, les bases de données, et le développement logiciel.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Ce que j’ai appris :
+- HTML / CSS (bases)
+- Excel / Word / PowerPoint
+
+---
+
+## 📂 Mes projets  :
+- 🔗 [un site ](https://github.com/bob-dev/page-html)
+-
+
+---
+
+## 📫 Me contacter :
+- 📧 naoualchifa@gmail.com
+- 🔗 [Mon LinkedIn](https://www.linkedin.com/in/naoual-chifa-82239033b)
