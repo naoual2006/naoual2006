@@ -13,8 +13,12 @@
 
 ## 📂 Mes projets  :
 -  un site web éducatif sur le SIDA, réalisé en HTML/CSS.
+-  Projets variés réalisés avex Excel, word et powerPoint.
 
-
+---
+## 📌 Vous pouvez consulter mon CV ici :
+- 🔗 [Mon CV](https://github.com/naoual2006/naoual2006/raw/main/CV%20naoual.pdf)
+  
 ---
 
 ## 📫 Me contacter :
