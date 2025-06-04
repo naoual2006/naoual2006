@@ -12,8 +12,8 @@
 ---
 
 ## 📂 Mes projets  :
-- 🔗 [un site ](https://github.com/bob-dev/page-html)
--
+-  un site web éducatif sur le SIDA, réalisé en HTML/CSS.
+
 
 ---
 
